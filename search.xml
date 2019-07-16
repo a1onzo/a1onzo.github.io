@@ -11,7 +11,7 @@
   <entry>
     <title><![CDATA[mysql-explain]]></title>
     <url>%2F2019%2F07%2F11%2Fsql-explain%2F</url>
-    <content type="text"><![CDATA[一 前言]]></content>
+    <content type="text"><![CDATA[一 前言附： explain 官方文档： https://dev.mysql.com/doc/refman/5.7/en/explain-output.html]]></content>
       <tags>
         <tag>mysql</tag>
       </tags>
